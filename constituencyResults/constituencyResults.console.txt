@@ -1,0 +1,336 @@
+---------------
+Normal Map Test
+---------------
+-------------------
+Listing all Parties
+-------------------
+Party : LAB Chairs =  349 Votes = 9567584
+Party : CON Chairs =  210 Votes = 8784915
+Party : LD Chairs =  62 Votes = 5985454
+Party : DUP Chairs =  9 Votes = 241856
+Party : SNP Chairs =  6 Votes = 412267
+Party : SF Chairs =  5 Votes = 174530
+Party : SDLP Chairs =  3 Votes = 125626
+Party : PC Chairs =  2 Votes = 174838
+Party : IKHH Chairs =  1 Votes = 18739
+Party : RES Chairs =  1 Votes = 30190
+Party : UUP Chairs =  1 Votes = 127314
+Party : OTH Chairs =  1 Votes = 520736
+Party : PubP Chairs =  0 Votes = 678
+Party : AFC Chairs =  0 Votes = 0
+Party : FSP Chairs =  0 Votes = 743
+Party : ED Chairs =  0 Votes = 0
+Party : BNP Chairs =  0 Votes = 7588
+Party : UKIP Chairs =  0 Votes = 605973
+Party : SLP Chairs =  0 Votes = 6696
+Party : VFY Chairs =  0 Votes = 890
+Party : SCP Chairs =  0 Votes = 0
+Party : SUP Chairs =  0 Votes = 1266
+Party : IND Chairs =  0 Votes = 17376
+Party : SIP Chairs =  0 Votes = 337
+Party : MRLP Chairs =  0 Votes = 0
+Party : NF Chairs =  0 Votes = 0
+Party : PV Chairs =  0 Votes = 0
+Party : NAAT Chairs =  0 Votes = 0
+Party : GRN Chairs =  0 Votes = 257654
+Party : DDT Chairs =  0 Votes = 89
+Party : SEA Chairs =  0 Votes = 1649
+Party : VER Chairs =  0 Votes = 0
+Party : CPB Chairs =  0 Votes = 80
+Party : MRP Chairs =  0 Votes = 0
+Party : AP Chairs =  0 Votes = 28291
+Party : NPTR Chairs =  0 Votes = 0
+Party : PPS Chairs =  0 Votes = 716
+Party : PIP Chairs =  0 Votes = 381
+Party : SSCP Chairs =  0 Votes = 1017
+Party : CHP Chairs =  0 Votes = 0
+Party : LIB Chairs =  0 Votes = 916
+Party : ACP Chairs =  0 Votes = 0
+Party : WP Chairs =  0 Votes = 1669
+Party : OCV Chairs =  0 Votes = 4004
+Party : SOC Chairs =  0 Votes = 0
+Party : SGP Chairs =  0 Votes = 25760
+Party : CG Chairs =  0 Votes = 0
+Party : IGV Chairs =  0 Votes = 379
+Party : LC Chairs =  0 Votes = 311
+Party : SSP Chairs =  0 Votes = 43514
+Party : NMBP Chairs =  0 Votes = 0
+Total Chairs = 650
+Total Votes = 27172026
+---------------
+Listing Results
+---------------
+Party : Winner!! - LAB Chairs =  349 Votes = 9567584 Percentage Chairs = 53,69%  Percentage Votes = 35,21%
+Party : CON Chairs =  210 Votes = 8784915 Percentage Chairs = 32,31%  Percentage Votes = 32,33%
+Party : LD Chairs =  62 Votes = 5985454 Percentage Chairs = 9,54%  Percentage Votes = 22,03%
+Party : Others Chairs =  29 Votes = 2834073 Percentage Chairs = 4,46%  Percentage Votes = 10,43%
+Total Chairs 650
+Total Votes  27172026
+---------------
+Normal Db Test
+---------------
+-------------------
+Listing all Parties
+-------------------
+Party : LAB Chairs =  349 Votes = 9567584
+Party : CON Chairs =  210 Votes = 8784915
+Party : LD Chairs =  62 Votes = 5985454
+Party : DUP Chairs =  9 Votes = 241856
+Party : SNP Chairs =  6 Votes = 412267
+Party : SF Chairs =  5 Votes = 174530
+Party : SDLP Chairs =  3 Votes = 125626
+Party : PC Chairs =  2 Votes = 174838
+Party : IKHH Chairs =  1 Votes = 18739
+Party : RES Chairs =  1 Votes = 30190
+Party : UUP Chairs =  1 Votes = 127314
+Party : OTH Chairs =  1 Votes = 520736
+Party : PubP Chairs =  0 Votes = 678
+Party : AFC Chairs =  0 Votes = 0
+Party : FSP Chairs =  0 Votes = 743
+Party : ED Chairs =  0 Votes = 0
+Party : BNP Chairs =  0 Votes = 7588
+Party : UKIP Chairs =  0 Votes = 605973
+Party : VFY Chairs =  0 Votes = 890
+Party : SLP Chairs =  0 Votes = 6696
+Party : SCP Chairs =  0 Votes = 0
+Party : SUP Chairs =  0 Votes = 1266
+Party : IND Chairs =  0 Votes = 17376
+Party : SIP Chairs =  0 Votes = 337
+Party : MRLP Chairs =  0 Votes = 0
+Party : NF Chairs =  0 Votes = 0
+Party : PV Chairs =  0 Votes = 0
+Party : NAAT Chairs =  0 Votes = 0
+Party : GRN Chairs =  0 Votes = 257654
+Party : DDT Chairs =  0 Votes = 89
+Party : SEA Chairs =  0 Votes = 1649
+Party : CPB Chairs =  0 Votes = 80
+Party : VER Chairs =  0 Votes = 0
+Party : MRP Chairs =  0 Votes = 0
+Party : AP Chairs =  0 Votes = 28291
+Party : NPTR Chairs =  0 Votes = 0
+Party : PPS Chairs =  0 Votes = 716
+Party : PIP Chairs =  0 Votes = 381
+Party : CHP Chairs =  0 Votes = 0
+Party : SSCP Chairs =  0 Votes = 1017
+Party : LIB Chairs =  0 Votes = 916
+Party : ACP Chairs =  0 Votes = 0
+Party : WP Chairs =  0 Votes = 1669
+Party : OCV Chairs =  0 Votes = 4004
+Party : SOC Chairs =  0 Votes = 0
+Party : SGP Chairs =  0 Votes = 25760
+Party : LC Chairs =  0 Votes = 311
+Party : IGV Chairs =  0 Votes = 379
+Party : CG Chairs =  0 Votes = 0
+Party : SSP Chairs =  0 Votes = 43514
+Party : NMBP Chairs =  0 Votes = 0
+Total Chairs = 650
+Total Votes = 27172026
+---------------
+Listing Results
+---------------
+Party : Winner!! - LAB Chairs =  349 Votes = 9567584 Percentage Chairs = 53,69%  Percentage Votes = 35,21%
+Party : CON Chairs =  210 Votes = 8784915 Percentage Chairs = 32,31%  Percentage Votes = 32,33%
+Party : LD Chairs =  62 Votes = 5985454 Percentage Chairs = 9,54%  Percentage Votes = 22,03%
+Party : Others Chairs =  29 Votes = 2834073 Percentage Chairs = 4,46%  Percentage Votes = 10,43%
+Total Chairs 650
+Total Votes  27172026
+------------------
+Singleton Map Test
+------------------
+-------------------
+Listing all Parties
+-------------------
+Party : LAB Chairs =  349 Votes = 9567584
+Party : CON Chairs =  210 Votes = 8784915
+Party : LD Chairs =  62 Votes = 5985454
+Party : DUP Chairs =  9 Votes = 241856
+Party : SNP Chairs =  6 Votes = 412267
+Party : SF Chairs =  5 Votes = 174530
+Party : SDLP Chairs =  3 Votes = 125626
+Party : PC Chairs =  2 Votes = 174838
+Party : IKHH Chairs =  1 Votes = 18739
+Party : RES Chairs =  1 Votes = 30190
+Party : UUP Chairs =  1 Votes = 127314
+Party : OTH Chairs =  1 Votes = 520736
+Party : PubP Chairs =  0 Votes = 678
+Party : AFC Chairs =  0 Votes = 0
+Party : FSP Chairs =  0 Votes = 743
+Party : ED Chairs =  0 Votes = 0
+Party : BNP Chairs =  0 Votes = 7588
+Party : UKIP Chairs =  0 Votes = 605973
+Party : VFY Chairs =  0 Votes = 890
+Party : SLP Chairs =  0 Votes = 6696
+Party : SCP Chairs =  0 Votes = 0
+Party : SUP Chairs =  0 Votes = 1266
+Party : IND Chairs =  0 Votes = 17376
+Party : SIP Chairs =  0 Votes = 337
+Party : MRLP Chairs =  0 Votes = 0
+Party : NF Chairs =  0 Votes = 0
+Party : PV Chairs =  0 Votes = 0
+Party : NAAT Chairs =  0 Votes = 0
+Party : GRN Chairs =  0 Votes = 257654
+Party : DDT Chairs =  0 Votes = 89
+Party : SEA Chairs =  0 Votes = 1649
+Party : CPB Chairs =  0 Votes = 80
+Party : VER Chairs =  0 Votes = 0
+Party : MRP Chairs =  0 Votes = 0
+Party : AP Chairs =  0 Votes = 28291
+Party : NPTR Chairs =  0 Votes = 0
+Party : PPS Chairs =  0 Votes = 716
+Party : PIP Chairs =  0 Votes = 381
+Party : CHP Chairs =  0 Votes = 0
+Party : SSCP Chairs =  0 Votes = 1017
+Party : LIB Chairs =  0 Votes = 916
+Party : ACP Chairs =  0 Votes = 0
+Party : WP Chairs =  0 Votes = 1669
+Party : OCV Chairs =  0 Votes = 4004
+Party : SOC Chairs =  0 Votes = 0
+Party : SGP Chairs =  0 Votes = 25760
+Party : LC Chairs =  0 Votes = 311
+Party : IGV Chairs =  0 Votes = 379
+Party : CG Chairs =  0 Votes = 0
+Party : SSP Chairs =  0 Votes = 43514
+Party : NMBP Chairs =  0 Votes = 0
+Total Chairs = 650
+Total Votes = 27172026
+---------------
+Listing Results
+---------------
+Party : Winner!! - LAB Chairs =  349 Votes = 9567584 Percentage Chairs = 53,69%  Percentage Votes = 35,21%
+Party : CON Chairs =  210 Votes = 8784915 Percentage Chairs = 32,31%  Percentage Votes = 32,33%
+Party : LD Chairs =  62 Votes = 5985454 Percentage Chairs = 9,54%  Percentage Votes = 22,03%
+Party : Others Chairs =  29 Votes = 2834073 Percentage Chairs = 4,46%  Percentage Votes = 10,43%
+Total Chairs 650
+Total Votes  27172026
+-----------------
+Singleton Db Test
+-----------------
+-------------------
+Listing all Parties
+-------------------
+Party : LAB Chairs =  349 Votes = 9567584
+Party : CON Chairs =  210 Votes = 8784915
+Party : LD Chairs =  62 Votes = 5985454
+Party : DUP Chairs =  9 Votes = 241856
+Party : SNP Chairs =  6 Votes = 412267
+Party : SF Chairs =  5 Votes = 174530
+Party : SDLP Chairs =  3 Votes = 125626
+Party : PC Chairs =  2 Votes = 174838
+Party : IKHH Chairs =  1 Votes = 18739
+Party : RES Chairs =  1 Votes = 30190
+Party : UUP Chairs =  1 Votes = 127314
+Party : OTH Chairs =  1 Votes = 520736
+Party : PubP Chairs =  0 Votes = 678
+Party : AFC Chairs =  0 Votes = 0
+Party : FSP Chairs =  0 Votes = 743
+Party : ED Chairs =  0 Votes = 0
+Party : BNP Chairs =  0 Votes = 7588
+Party : UKIP Chairs =  0 Votes = 605973
+Party : VFY Chairs =  0 Votes = 890
+Party : SLP Chairs =  0 Votes = 6696
+Party : SCP Chairs =  0 Votes = 0
+Party : SUP Chairs =  0 Votes = 1266
+Party : IND Chairs =  0 Votes = 17376
+Party : SIP Chairs =  0 Votes = 337
+Party : MRLP Chairs =  0 Votes = 0
+Party : NF Chairs =  0 Votes = 0
+Party : PV Chairs =  0 Votes = 0
+Party : NAAT Chairs =  0 Votes = 0
+Party : GRN Chairs =  0 Votes = 257654
+Party : DDT Chairs =  0 Votes = 89
+Party : SEA Chairs =  0 Votes = 1649
+Party : CPB Chairs =  0 Votes = 80
+Party : VER Chairs =  0 Votes = 0
+Party : MRP Chairs =  0 Votes = 0
+Party : AP Chairs =  0 Votes = 28291
+Party : NPTR Chairs =  0 Votes = 0
+Party : PPS Chairs =  0 Votes = 716
+Party : PIP Chairs =  0 Votes = 381
+Party : CHP Chairs =  0 Votes = 0
+Party : SSCP Chairs =  0 Votes = 1017
+Party : LIB Chairs =  0 Votes = 916
+Party : ACP Chairs =  0 Votes = 0
+Party : WP Chairs =  0 Votes = 1669
+Party : OCV Chairs =  0 Votes = 4004
+Party : SOC Chairs =  0 Votes = 0
+Party : SGP Chairs =  0 Votes = 25760
+Party : LC Chairs =  0 Votes = 311
+Party : IGV Chairs =  0 Votes = 379
+Party : CG Chairs =  0 Votes = 0
+Party : SSP Chairs =  0 Votes = 43514
+Party : NMBP Chairs =  0 Votes = 0
+Total Chairs = 650
+Total Votes = 27172026
+---------------
+Listing Results
+---------------
+Party : Winner!! - LAB Chairs =  349 Votes = 9567584 Percentage Chairs = 53,69%  Percentage Votes = 35,21%
+Party : CON Chairs =  210 Votes = 8784915 Percentage Chairs = 32,31%  Percentage Votes = 32,33%
+Party : LD Chairs =  62 Votes = 5985454 Percentage Chairs = 9,54%  Percentage Votes = 22,03%
+Party : Others Chairs =  29 Votes = 2834073 Percentage Chairs = 4,46%  Percentage Votes = 10,43%
+Total Chairs 650
+Total Votes  27172026
+---------------
+Thread Map Test
+---------------
+Info process, loop number 0
+---------------
+Listing Results
+---------------
+Party : LAB Chairs =  3 Votes = 46081 Percentage Chairs = 0,46%  Percentage Votes = 35,27%
+Party : LD Chairs =  1 Votes = 30785 Percentage Chairs = 0,15%  Percentage Votes = 23,56%
+Party : UKIP Chairs =  0 Votes = 2650 Percentage Chairs = 0,00%  Percentage Votes = 2,03%
+Party : Others Chairs =  0 Votes = 51126 Percentage Chairs = 0,00%  Percentage Votes = 39,13%
+Total Chairs 4
+Total Votes  130642
+Info process, loop number 1
+---------------
+Listing Results
+---------------
+Party : LAB Chairs =  199 Votes = 4673843 Percentage Chairs = 30,62%  Percentage Votes = 41,04%
+Party : CON Chairs =  55 Votes = 3153796 Percentage Chairs = 8,46%  Percentage Votes = 27,69%
+Party : LD Chairs =  28 Votes = 2489292 Percentage Chairs = 4,31%  Percentage Votes = 21,86%
+Party : Others Chairs =  6 Votes = 1070771 Percentage Chairs = 0,92%  Percentage Votes = 9,40%
+Total Chairs 288
+Total Votes  11387702
+Info process, loop number 2
+---------------
+Listing Results
+---------------
+Party : LAB Chairs =  324 Votes = 8531954 Percentage Chairs = 49,85%  Percentage Votes = 37,23%
+Party : CON Chairs =  166 Votes = 7346716 Percentage Chairs = 25,54%  Percentage Votes = 32,06%
+Party : LD Chairs =  52 Votes = 5137314 Percentage Chairs = 8,00%  Percentage Votes = 22,42%
+Party : Others Chairs =  10 Votes = 1900055 Percentage Chairs = 1,54%  Percentage Votes = 8,29%
+Total Chairs 552
+Total Votes  22916039
+Info process, loop number 3
+---------------
+Listing Results
+---------------
+Party : Winner!! - LAB Chairs =  349 Votes = 9574428 Percentage Chairs = 53,69%  Percentage Votes = 35,16%
+Party : CON Chairs =  210 Votes = 8808206 Percentage Chairs = 32,31%  Percentage Votes = 32,35%
+Party : LD Chairs =  62 Votes = 6010613 Percentage Chairs = 9,54%  Percentage Votes = 22,07%
+Party : Others Chairs =  29 Votes = 2835428 Percentage Chairs = 4,46%  Percentage Votes = 10,41%
+Total Chairs 650
+Total Votes  27228675
+Info process, loop number 4
+---------------
+Listing Results
+---------------
+Party : Winner!! - LAB Chairs =  349 Votes = 9574428 Percentage Chairs = 53,69%  Percentage Votes = 35,16%
+Party : CON Chairs =  210 Votes = 8808206 Percentage Chairs = 32,31%  Percentage Votes = 32,35%
+Party : LD Chairs =  62 Votes = 6010613 Percentage Chairs = 9,54%  Percentage Votes = 22,07%
+Party : Others Chairs =  29 Votes = 2835428 Percentage Chairs = 4,46%  Percentage Votes = 10,41%
+Total Chairs 650
+Total Votes  27228675
+Info process, loop number 5
+---------------
+Listing Results
+---------------
+Party : Winner!! - LAB Chairs =  349 Votes = 9574428 Percentage Chairs = 53,69%  Percentage Votes = 35,16%
+Party : CON Chairs =  210 Votes = 8808206 Percentage Chairs = 32,31%  Percentage Votes = 32,35%
+Party : LD Chairs =  62 Votes = 6010613 Percentage Chairs = 9,54%  Percentage Votes = 22,07%
+Party : Others Chairs =  29 Votes = 2835428 Percentage Chairs = 4,46%  Percentage Votes = 10,41%
+Total Chairs 650
+Total Votes  27228675
+
